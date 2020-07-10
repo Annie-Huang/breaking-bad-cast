@@ -1,7 +1,8 @@
 React App - Breaking Bad API
 https://www.youtube.com/watch?v=YaioUnMw0mo
-
+https://github.com/bradtraversy/breaking-bad-cast
 https://github.com/Annie-Huang/breaking-bad-cast
+
 
 https://github.com/bradtraversy/breaking-bad-cast
 =========================================================
