@@ -8,4 +8,4 @@ https://github.com/bradtraversy/breaking-bad-cast
 
 C:\react>npx create-react-app breaking-bad-cast
 C:\react\breaking-bad-cast>npm install      << Don't want to use yarn.
-
+C:\react\breaking-bad-cast>npm i axios
